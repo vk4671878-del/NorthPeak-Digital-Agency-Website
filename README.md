@@ -45,17 +45,21 @@ NorthPeak-Digital/
 
 ## 📸 Screenshots
 
-### Home Page
+## Home Page
 
-![Home Page](screenshots/Home.png)
+![Home Page](Home.png)
 
-### Services Section
+## Services Section
 
-![Services](screenshots/Services.png)
+![Services](Services.png)
 
-### Pricing Section
+## Pricing Section
 
-![Pricing](screenshots/Pricing.png)
+![Pricing](Pricing.png)
+
+## Contact Section
+
+![Contact](Contact.png)
 
 ---
 
