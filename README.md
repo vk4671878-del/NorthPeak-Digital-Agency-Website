@@ -46,7 +46,7 @@ NorthPeak-Digital/
 ## 📸 Screenshots
 
 ### Home Page
-
+C:\Users\hp\Desktop\javascript\northpeak-digital\screenshots\Home.png
 ![Home Page](screenshots/Home.png)
 
 ### Services Section
